@@ -1,0 +1,16 @@
+[
+    {
+        "token":"cheems",
+        "contact_address":"0x0DF0587216a4a1bB7d5082fdc491d93d2dD4B413",
+        "pagecount":20,
+        "scale":1000000,
+        "active":true
+    },
+    {
+        "token":"CAT",
+        "contact_address":"0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+        "pagecount":20,
+        "scale":10000,
+        "active":true
+    }
+    ]
